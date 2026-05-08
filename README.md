@@ -11,5 +11,4 @@ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-My GitHub Stats
 ![Fasih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fasih-Ur-Rehman-AI&show_icons=true&theme=radical)
