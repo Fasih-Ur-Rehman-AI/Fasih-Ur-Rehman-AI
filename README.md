@@ -3,7 +3,7 @@
 ### 🤖 BS Artificial Intelligence Student | Python Developer
 I am a passionate coder and data enthusiast from Islamabad, focused on building AI solutions and automating complex workflows.
 
-- 🐍 **Python Specialist:** Voice Assistants (Jarvis.
+- 🐍 **Python Specialist:** Voice Assistants (Jarvis).
 - 📊 **Excel Expert:** Advanced Dashboards, PivotTables, and Data Automation.
 - 🎓 **Education:** Pursuing BS in AI at Iqra University, Islamabad.
 
